@@ -1,0 +1,30 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+$lang['guide_manage']			= 'Manage Guide';
+$lang['guide_edit']				= 'Edit';
+$lang['guide_true']				= 'True';
+$lang['guide_false']				= 'False';
+$lang['guide_create']			= 'Create';
+$lang['guide_list']				= 'List';
+$lang['guide_new']				= 'New';
+$lang['guide_edit_text']			= 'Edit this to suit your needs';
+$lang['guide_no_records']			= 'There aren\'t any guide in the system.';
+$lang['guide_create_new']			= 'Create a new Guide.';
+$lang['guide_create_success']			= 'Guide successfully created.';
+$lang['guide_create_failure']			= 'There was a problem creating the guide: ';
+$lang['guide_create_new_button']			= 'Create New Guide';
+$lang['guide_invalid_id']			= 'Invalid Guide ID.';
+$lang['guide_edit_success']			= 'Guide successfully saved.';
+$lang['guide_edit_failure']			= 'There was a problem saving the guide: ';
+$lang['guide_delete_success']			= 'record(s) successfully deleted.';
+$lang['guide_delete_failure']			= 'We could not delete the record: ';
+$lang['guide_delete_error']			= 'You have not selected any records to delete.';
+$lang['guide_actions']			= 'Actions';
+$lang['guide_cancel']			= 'Cancel';
+$lang['guide_delete_record']			= 'Delete this Guide';
+$lang['guide_delete_confirm']			= 'Are you sure you want to delete this guide?';
+$lang['guide_edit_heading']			= 'Edit Guide';
+
+// Activities
+$lang['guide_act_create_record']			= 'Created record with ID';
+$lang['guide_act_edit_record']			= 'Updated record with ID';
+$lang['guide_act_delete_record']			= 'Deleted record with ID';

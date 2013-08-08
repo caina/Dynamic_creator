@@ -1,0 +1,12 @@
+<?php
+/****
+	CRIA FORMS USANDO OS DADOS DA TABELA NO BANCO
+	E COMBINA COM OS DADOS DE CONFIGURAÇÃO DO MÓDULO
+*/
+class Single_upload {
+	
+
+
+	}
+
+	?>
